@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-test-support/acceptance-tests/yo';
